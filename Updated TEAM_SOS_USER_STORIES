@@ -1,0 +1,34 @@
+Software Recommendation:		
+		
+	Software	Comment
+UI	Xamarin Studio (Mobile App)	
+	Xamarin Android Player (Android emulators)	Available with Free version of the Xamarin
+	Kendo UI (Web Page App)	
+Server 	C#	
+	Web API	
+Database	SQL Server	
+Report 	Kendo UI	
+Project Management	JIRA	
+Code Repository	GitHub	
+Testing Frameworks	Selenium IDE	Automation testing tool. 
+		
+		
+User Stories:		
+As an end user, I want to be able to login via a mobile application and have it remember my credentials.		
+As an end user, I want be able to retrieve my forgotten password via email through an option in the mobile application		
+As an end user, I want the application to run in the background and be available in the notification drop down list for quick easy access or as a widget I can set on the Home Screen.		
+As an end user, I want to be able to enter a new task with a start and finish time against project(s) that I have been assigned to		
+As an end user, I want the start time of my new task to be automatically populated with the finish time of my previous task or the current time on my mobile device		
+As an end user, I want to be able to lock/submit all the tasks I have entered for the day		
+As an end user, I want to be notified if my submitted tasks for the day have been accepted or rejected		
+As an end user, I want to be able to modify any tasks that I have entered for the day that have NOT been locked/submitted		
+As an end user, I want to be able to see any tasks that I have entered in my calendar on my mobile device		
+As an end user, I want to be able to see a summary of the tasks that have been submitted via a report in the app		
+As an end user, I want to be able to download the summary as a PDF onto my mobile device or sent via an email		
+As an end user, I want to be able to see a graphical representation of the tasks that have been submitted in the app		
+As an end user, I want to be able to download the graph as an Excel/PDF onto my mobile device or sent via an email		
+As a manager, I want to be able to see a summary of all of the hours spent on specific projects as well as a break down of hours per end user		
+As a manager, I want to be able to update the projects that an end user can work on		
+As a manager, I want to be notified of all task submissions for the day		
+As a manager, I want to be able to Accept any submitted tasks for the day		
+As a manager, I want to be able to Reject any submitted tasks for the day and provide a comment as to why it was rejected		
