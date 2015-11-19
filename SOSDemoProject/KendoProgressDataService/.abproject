@@ -1,0 +1,45 @@
+{
+  "ProjectName": "KendoProgressDataService",
+  "ProjectGuid": "e053e8f3-fde9-4552-93cc-7cb2451869ea",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.KendoProgressDataService",
+  "DisplayName": "KendoProgressDataService",
+  "Author": "",
+  "Description": "KendoProgressDataService",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{b4417325-5f00-4c65-9b3b-daea475fd1fd}",
+  "WP8ProductID": "{32306a2e-cfe9-4479-9838-a8bcee5b8127}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.KendoProgressDataService",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
